@@ -79,6 +79,7 @@ a.btn-default {
 
 a.btn-main:hover {
   background-color: #9575CD;
+  transition: background .5s;
 }
 
 .supporting {

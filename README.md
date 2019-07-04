@@ -1,7 +1,22 @@
-# web-developer-landing-page
+# Welcome to DavidDaDev GitHub Page
 
-Landing Page Project
+One of my early-days project. Creating a web developer landing page this time.
 
-https://sotoxp.github.io/web-developer-landing-page/
+Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
-Clean and minimalistic page.
+## Launch
+
+To see the project live tap [here](https://daviddadev.github.io/web-dev-landing-page/index.html), and thanks for visiting my GitHub. Enjoy.
+
+- David
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Disclaimer
+On older projects, some links might be dead, broken, or empty. Some projects are just to show the look and feel without 100% functionality. 
